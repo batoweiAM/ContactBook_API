@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\bin\Debug\net6.0\ContactBook.Auth.deps.json
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\bin\Debug\net6.0\ContactBook.Auth.dll
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\bin\Debug\net6.0\ContactBook.Auth.pdb
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.AssemblyInfo.cs
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.dll
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\refint\ContactBook.Auth.dll
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.pdb
+C:\Users\user\Desktop\My personal projects\ContactBook.Auth\obj\Debug\net6.0\ref\ContactBook.Auth.dll
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\bin\Debug\net6.0\ContactBook.Auth.deps.json
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\bin\Debug\net6.0\ContactBook.Auth.dll
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\bin\Debug\net6.0\ContactBook.Auth.pdb
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.AssemblyInfo.cs
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.dll
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\refint\ContactBook.Auth.dll
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\ContactBook.Auth.pdb
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Auth\obj\Debug\net6.0\ref\ContactBook.Auth.dll

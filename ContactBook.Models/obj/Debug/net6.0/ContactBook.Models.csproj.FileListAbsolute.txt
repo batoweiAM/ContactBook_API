@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\bin\Debug\net6.0\ContactBook.Models.deps.json
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\bin\Debug\net6.0\ContactBook.Models.dll
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\bin\Debug\net6.0\ContactBook.Models.pdb
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.dll
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\refint\ContactBook.Models.dll
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.pdb
+C:\Users\user\Desktop\My personal projects\ContactBook.Models\obj\Debug\net6.0\ref\ContactBook.Models.dll
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\bin\Debug\net6.0\ContactBook.Models.deps.json
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\bin\Debug\net6.0\ContactBook.Models.dll
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\bin\Debug\net6.0\ContactBook.Models.pdb
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.dll
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\refint\ContactBook.Models.dll
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\ContactBook.Models.pdb
+C:\Users\user\Desktop\My personal projects\week 10 Task\ContactBook.Models\obj\Debug\net6.0\ref\ContactBook.Models.dll
